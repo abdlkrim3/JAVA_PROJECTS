@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ApplicationJavaFx2" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ma.enset.app.presentation.ApplicationJavaFx2" />
+    <module name="app_gui_with_db" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\itsmu\IdeaProjects\app_gui_with_db\javafx-sdk-19\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
